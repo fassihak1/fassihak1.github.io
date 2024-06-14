@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Fassih Ahmad Khan. I am a passionate computer science student interested in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in continuous learning and seeking opportunities to explore new technologies and methodologies."
+  "AboutText": "A Software Engineer and Tier 2 Network Analyst with several years of professional experience. A perfectionist with a diverse skill set dedicated to delivering streamlined and quality work, specializing in troubleshooting, problem-solving, coordination, and leadership."
 },
 "Contact": {
   "EMail": "khanf@spu.edu",
@@ -14,16 +14,16 @@
   "GitHub": "https://github.com/fassihak1"
 },
 "Experience": {
-  "ExperienceText": "A Software Engineer and Tier 2 Network Analyst with several years of professional experience. A perfectionist with a diverse skill set dedicated to delivering streamlined and quality work, who specializes in troubleshooting, problem-solving, coordination, and leadership.",
+  "ExperienceText": "",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2025",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "",
   "Employment": "Seattle Pacific University",
   "Role": "Tier 2 Network Analyst",
-  "EmploymentText": "Network Analyst at Computer and Information Systems at Seattle Pacific University",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "EmploymentText": "Computer Infrastructure Engineering and Troubleshooting at Seattle Pacific University.",
+  "Skills": ["C++", " JavaScript", " Python", " CSS"," HTML"," Visual Basic"],
+  "SkillsText": "",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
