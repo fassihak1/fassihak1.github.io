@@ -21,8 +21,7 @@
   "EducationText": "",
   "Employment": "Seattle Pacific University",
   "Role": "Tier 2 Network Support Technician",
-  "EmploymentText": " • Delivered Tier 2 IT Support, specializing in computer infrastructure troubleshooting, hardware support, and maintenance across campus.<br>• Led and collaborated on technical projects, including:<br> 1. Migrating clients from analog to VoIP phone systems.<br> 2. Upgrading Wi-Fi hardware to modern standards for enhanced connectivity."
-  ,
+  "EmploymentText": "I provided Tier 2 IT support, specializing in troubleshooting computer infrastructure, hardware maintenance, and technical support across campus. My role involved leading and collaborating on various projects, such as migrating clients from analog to VoIP phone systems, upgrading Wi-Fi hardware for improved connectivity, and installing and configuring Juniper and SMC network switches along with UPS systems. Additionally, I deployed classroom and office technology, established the core network infrastructure for an Amazon Go store on campus, and expanded into remote network management and switch programming to enhance network performance. Beyond project work, I supported the Help Desk team with advanced troubleshooting, provided A/V support for classrooms and lecture halls, and authored detailed Wiki articles to streamline IT processes. I also trained and mentored new hires in troubleshooting protocols and best practices while partnering with contractors and vendors like Absco, Allstream, Comcast, Living Green, Signal Services, and Far West Technologies to align IT solutions with organizational needs. ",
   "Skills": ["C++", " JavaScript", " Python", " CSS"," HTML"," Visual Basic"],
   "SkillsText": "",
   "Resume": "student-resume.pdf"  
