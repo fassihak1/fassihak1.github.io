@@ -14,7 +14,7 @@
   "GitHub": "https://github.com/fassihak1"
 },
 "Experience": {
-  "ExperienceText": "",
+  "ExperienceText": "Internship and Work Experience",
   "School": "Seattle Pacific University",
   "Major": "Information Systems",
   "Graduation": "June 2025",
@@ -36,7 +36,7 @@
   },
   "Project2": {
     "Title": "Winter Ark (Team School Project)",
-    "Desc": "Winter Ark is a fitness tracking app designed to help users stay motivated and accountable by connecting with friends or gym partners. Built for Android, the app allows users to log workouts, track muscle group progress, set fitness goals, and monitor performance over time. A key feature is its gym buddy system, which encourages shared progress through mutual accountability and motivational features. The app also offers personalized workout plans and lifestyle recommendations based on user goals.",
+    "Desc": "Winter Ark is a fitness tracking app designed to help users stay motivated and accountable by connecting with friends or gym partners. Built for Android, the app allows users to log workouts, track muscle group progress, set fitness goals, and monitor performance over time. A key feature is its gym buddy system, which encourages shared progress through mutual accountability and motivational features. The app also offers personalized workout plans and lifestyle recommendations based on user goals. I was the QA engineer for the app and collaborated with Jazmin Chavez Peraza, Ian Wilson, Tidankay Sesay and Jacob Miller to build it from the ground up.",
     "GitHubRepo": "",
     "MainImage": "",
     "DetailImages": []
