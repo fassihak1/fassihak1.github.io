@@ -28,15 +28,15 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "FitFluencer",
+    "Title": "FitFluencer (Individual School Project)",
     "Desc": " The Fitfluencer app connects fitness enthusiasts with social media influencers, offering personalized workout plans, nutrition tips, and a supportive community. Users can track their progress, join live sessions, and engage with high-quality content. Influencers can monetize their expertise while inspiring and guiding their followers. <br><be> It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com/fassihak1/FitFluencer-App",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png"]
   },
   "Project2": {
-    "Title": "",
-    "Desc": "",
+    "Title": "Winter Ark (Team School Project)",
+    "Desc": "Winter Ark is a fitness tracking app designed to help users stay motivated and accountable by connecting with friends or gym partners. Built for Android, the app allows users to log workouts, track muscle group progress, set fitness goals, and monitor performance over time. A key feature is its gym buddy system, which encourages shared progress through mutual accountability and motivational features. The app also offers personalized workout plans and lifestyle recommendations based on user goals.",
     "GitHubRepo": "",
     "MainImage": "",
     "DetailImages": []
